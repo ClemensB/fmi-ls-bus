@@ -1,5 +1,6 @@
-#include <fmi_3_ls_bus_header_test_helper_can.h>
 #include <gtest/gtest.h>
+
+#include "fmi_3_ls_bus_header_test_helper_can.h"
 
 #ifdef _MSC_VER
 #pragma warning(push)
